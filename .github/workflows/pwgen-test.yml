@@ -1,4 +1,4 @@
-name: Python Test
+name: Pwgen Test
 
 on: [push, pull_request]
 
